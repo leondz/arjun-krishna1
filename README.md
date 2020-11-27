@@ -1,1 +1,2 @@
-# arjun-krishna1
+# Hi! I'm Arjun
+## Engineering Student, Software Developer and Tinkerer
