@@ -6,9 +6,7 @@
 </div>
 
 ## Work
-I'm currently working as a software developer for a small start-up.
-
-We are building a website to connect Egyptian students to Canadian Professionals for Educational and Career advice
+I'm currently working as a software developer, where I am building a website to connect International students to Canadian Professionals for Educational and Career advice
 
 ## School
 I'm also studying Mechatronics Engineering at the University of Waterloo. Basically learning how to build robots(kinda)
