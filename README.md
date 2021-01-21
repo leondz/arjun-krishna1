@@ -4,7 +4,11 @@
   </br>
   <img width="460" height="300" src="robot-dancing.gif">
 </div>
-[http://www.arjunkrishna.tech/](Portfolio) [LinkedIn](https://www.linkedin.com/feed/) [GitHub](https://github.com/arjun-krishna1/arjun-krishna1/edit/main/README.md) [Email](a68krish@uwaterloo.ca) [Resume](https://drive.google.com/file/d/158Lndk5wDkTWitj82EWYir1GfJDa6BmK/view)
+- [http://www.arjunkrishna.tech/](Portfolio) 
+- [LinkedIn](https://www.linkedin.com/feed/) 
+- [GitHub](https://github.com/arjun-krishna1/arjun-krishna1/edit/main/README.md) 
+- [Email](a68krish@uwaterloo.ca) 
+- [Resume](https://drive.google.com/file/d/158Lndk5wDkTWitj82EWYir1GfJDa6BmK/view)
 
 # About Me
 - Hi! It is very nice to meet you!
