@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi! I'm Arjun</h1>
   <h2>Incoming Big Data Platform Developer at Huawei Canada</h2>
-  <h2>2nd Year Mechatronics Engineering Student - The University of Waterloo</h2>
+  <h4>2nd Year Mechatronics Engineering Student - The University of Waterloo</h4>
   </br>
   <img width="460" height="300" src="robot-dancing.gif">
 </div>
