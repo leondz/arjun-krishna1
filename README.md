@@ -15,4 +15,4 @@
 # About Me
 - Hi! It is very nice to meet you!
 - I'm learning how to apply machine learning and robotics to make life easier for every one
-- I'm also studing Mechatronics (Mechanical + Electrical + Software) engineering at The University of Waterloo
+- I study Mechatronics (Software + Mechanical + Electrical) engineering at The University of Waterloo
