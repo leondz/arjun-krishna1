@@ -6,7 +6,6 @@
   <img width="460" height="300" src="robot-dancing.gif">
 </div>
 
-[Portfolio 🌐](http://www.arjunkrishna.tech/)
 [LinkedIn 🕸️](https://www.linkedin.com/feed/)
 [GitHub 🛠️](https://github.com/arjun-krishna1/arjun-krishna1/edit/main/README.md)
 [Email 📧](a68krish@uwaterloo.ca)
