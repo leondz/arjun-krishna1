@@ -9,7 +9,7 @@
 [LinkedIn 🕸️](https://www.linkedin.com/feed/)
 [GitHub 🛠️](https://github.com/arjun-krishna1/arjun-krishna1/edit/main/README.md)
 [Email 📧](a68krish@uwaterloo.ca)
-[Resume 📄](https://drive.google.com/file/d/1t2pg6Rw8GAc4nfnD-45sCKQTx7qH9ZJZ/view?usp=sharing)
+[Resume 📄](https://drive.google.com/file/d/1LdfSj8jLMpeBhK1mq7djPAPW_DfxV4tw/view?usp=sharing)
 
 # About Me
 - Hi! It is very nice to meet you!
